@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervalculate",
+        "uuid": 6796830,
+        "checksum": "2z6ufu"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
